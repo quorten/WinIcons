@@ -1,0 +1,115 @@
+This is the proper chronological order of the icons, according to when
+I initially created the icon. Some of the older icons were restored
+from my memory, and I also added the enhancement of them being an icon
+file, which some of them were originally not. Therefore, those icons
+are not identical in binary form to the original older form.
+
+Oldest to newest:
+info.ico
+restaurant.ico
+prisonman.ico
+mainico.ico
+Simp.ico
+Andrew.ico
+school doc.ico
+madlibs.ico
+Organizer.ico
+phantominfo.ico
+fasthelp.ico
+Rubiks.ico
+titactoe.ico
+palscrn.ico
+startupmgr.ico
+dlgedit.ico
+sndstud.ico
+
+Here is an ordering of icons based off of their quality.  The
+progression mostly goes from best to worst, except when there are
+icons that are of even quality.
+
+Best to worst:
+Rubiks.ico
+startupmgr.ico
+palscrn.ico
+info.ico
+phantominfo.ico
+Andrew.ico
+fasthelp.ico
+mainico.ico
+dlgedit.ico
+Simp.ico
+prisonman.ico
+titactoe.ico
+restaurant.ico
+Organizer.ico
+school doc.ico
+sndstud.ico
+madlibs.ico
+
+What are some qualities that the best icons had?
+
+* Representation of a single object.
+
+* Excelent color control.
+
+* Unique object outline or distinguishing internal details.
+
+* Three-dimensional look.
+
+* The representative object didn't have too many busy details.
+
+What are some qualities that the worst icons had?
+
+* Full square border.
+
+* Words in the icon.
+
+* Abstract, non-representative picture.
+
+* More than one object in the icon.
+
+* Too many details, too busy of an icon.
+
+* Inefficient usage of available drawing space.
+
+Note that color quality was not one of the cited reasons for a poor
+icon.  This is because color styles largely have to do with the
+capabilities of the available technology rather than the artistic
+abilities.  However, icons designed for modern applications should
+have a modern look, and if this rule is not withheld, then that will
+count against an icon's quality.
+
+Hey, now I improved my Sound Studio icon.  Guess what will happen when
+I rerank my icons?
+#1 sndstud.ico !!!
+Rubiks.ico
+startupmgr.ico
+info.ico
+phantominfo.ico
+Simp.ico
+dlgedit.ico
+Andrew.ico
+palscrn.ico
+fasthelp.ico
+titactoe.ico
+mainico.ico
+prisonman.ico
+restaurant.ico
+Organizer.ico
+school doc.ico
+madlibs.ico
+
+Some important observations:
+
+* Obviously the ordering is not identical to my previous ordering for
+  the unchanged icons, but it is similar.
+
+* I think the large amounts of black and color choice on Palette
+  Screener makes for a worse icon than it could be, even with the low
+  color confinements.
+
+* By adding a carefully styled borderline with attention to detail for
+  my Sound Studio icon, along with changing the colors to match nicer,
+  I was able to bring Sound Studio from being the worst icon all the
+  way to being the best.  Very few modifications, but dramatic effects
+  on perceived quality.
