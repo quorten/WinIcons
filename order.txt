@@ -22,6 +22,7 @@ palscrn.ico
 startupmgr.ico
 dlgedit.ico
 sndstud.ico
+MhkEdit.ico
 
 Here is an ordering of icons based off of their quality.  The
 progression mostly goes from best to worst, except when there are
@@ -33,6 +34,7 @@ startupmgr.ico
 palscrn.ico
 info.ico
 phantominfo.ico
+MhkEdit.ico
 Andrew.ico
 fasthelp.ico
 mainico.ico
@@ -86,6 +88,7 @@ Rubiks.ico
 startupmgr.ico
 info.ico
 phantominfo.ico
+MhkEdit.ico
 Simp.ico
 dlgedit.ico
 Andrew.ico
